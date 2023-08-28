@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018635441674",
+    "project_id": "gatewatch-e0f67",
+    "storage_bucket": "gatewatch-e0f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018635441674:android:4bdfee0cf5dde7f541f1f3",
+        "android_client_info": {
+          "package_name": "com.example.startertemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018635441674-b4kj7h98hedjgn2qdo4dk48vpvam1fsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkYrJfmdGioJ5cHn2Ci8gjmFkfXgZKUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018635441674-b4kj7h98hedjgn2qdo4dk48vpvam1fsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
